@@ -1,0 +1,11 @@
+{
+  "title": "FaceSwap Studio — Build an AI Persona on a Normal Laptop",
+  "description": "A 13-step, CPU-only course that teaches you to build a real-time AI face and voice persona with Deep-Live-Cam, OBS, RVC and VB-Cable. Every screenshot, every download link, every error decoded. One price: NGN 159,000 for lifetime access.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
